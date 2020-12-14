@@ -36,3 +36,32 @@ img {
 .container-control-buttons {
     text-align: center;
 }
+
+.container-left {
+    text-align: center; 
+    display: inline-block;
+}
+
+.shuttle-background {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+img {
+    position: absolute;
+}
+
+.container-right {
+    text-align: center; 
+    display: inline-block;
+}
+
+.container-right > p { 
+    display: inline-block;
+}
+
+.container-control-buttons {
+    text-align: center;
+}
